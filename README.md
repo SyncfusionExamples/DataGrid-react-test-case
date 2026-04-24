@@ -24,7 +24,7 @@ Clone and set up the project:
 
 ```
 git clone https://github.com/SyncfusionExamples/DataGrid-react-test-case
-cd bind-the-react-datagrid-to-jest-unit-testing
+cd DataGrid-react-test-case
 npm install
 ```
 
