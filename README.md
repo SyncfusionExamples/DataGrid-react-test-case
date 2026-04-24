@@ -23,7 +23,7 @@ Before starting, ensure you have the following installed:
 Clone and set up the project:
 
 ```
-git clone bind-the-react-datagrid-to-jest-unit-testing
+git clone https://github.com/SyncfusionExamples/DataGrid-react-test-case
 cd bind-the-react-datagrid-to-jest-unit-testing
 npm install
 ```
