@@ -1,16 +1,43 @@
-# Syncfusion DataGrid with React Jest unit test 
-React [Jest](https://jestjs.io/docs/tutorial-react) testing is a popular approach to testing React applications using the Jest testing framework. This approach involves the creation and execution of unit tests specifically designed for React components. By conducting unit testing, which focuses on testing isolated units of code like functions, methods, and components to ensure that they behave as expected. This approach validates the individual units of your React components, catch potential bugs early in the development process, and maintains the reliability and stability of your React application. In this demo 
+# Bind EJ2 React DataGrid to Jest Unit Testing
 
-## Node version
-You need to verify if the installed version of Node is 14 or higher. If it is below version 14, you must install a version of Node above 14. You can refer to the following link to install the [node version](https://nodejs.org/en/download). You can select any node version that is 14 or above and installed.
+## Repository Description
+A practical demonstration of implementing unit testing for the Syncfusion EJ2 DataGrid component in React applications using Jest testing framework.
 
-## Install packages
+## Overview
+This repository provides a comprehensive example of using Jest to test React applications with EJ2 DataGrid components. The project focuses on creating and executing unit tests specifically designed for React components to ensure they behave as expected.
 
-Run the `npm install` to install the required packages of this application.
+## Features
+- **DataGrid Component**: Integrated Syncfusion EJ2 DataGrid component
+- **Jest Unit Testing**: Comprehensive unit tests for React components
+- **Test Isolation**: Validates individual units of React components
 
-## Run
-Run `npm test` to execute the test case
+## Project Prerequisites
+Before starting, ensure you have the following installed:
 
-## Further help
+- **Node.js**: Version 14 or higher
+- **Visual Studio Code**: Latest version recommended
+- **npm**: Node Package Manager (included with Node.js)
+
+## Installation
+
+Clone and set up the project:
+
+```
+git clone bind-the-react-datagrid-to-jest-unit-testing
+cd bind-the-react-datagrid-to-jest-unit-testing
+npm install
+```
+
+## Running the Application
+
+Execute the test cases:
+
+```
+npm test
+```
+
+The command will run all Jest unit tests and display the results in the terminal.
+
+## Further Help
 
 For more detailed information on setting up testing in React, refer to the official [React documentation](https://jestjs.io/docs/tutorial-react).
